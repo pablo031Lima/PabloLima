@@ -1,0 +1,10 @@
+ Qual vai ser o resultado desse código e por quê? Qual código seria equivalente a ele?
+	a = int(input())
+a *= 2
+print(a)
+
+
+
+resultado :int(input()): recebe um dado do usuário como texto (string). O int() converte esse texto em
+um número inteiro e armazena na variável , aparecendo uma caixa de resposta na qual o valor
+será 2 x = a caixa da reposta.
